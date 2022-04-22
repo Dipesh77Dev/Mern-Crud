@@ -29,3 +29,5 @@ Cart Model - To store the cart of any user.
 Order Model - For ordering the products.
 
 We will not be storing passwords in plain text format since it can be easily available if someone use our database, so its better for security, we use bcrypt library to hash our passwords and then save the hashed password in the database.
+
+link - https://javascript.plainenglish.io/lets-build-a-mern-stack-e-commerce-web-app-accb4c14ce71
